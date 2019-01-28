@@ -24,9 +24,9 @@
     </licenses>
     
     <scm>
-        <connection>scm:git:git://github.com/jenkinsci/google_chat.git</connection>
-        <developerConnection>scm:git:git@github.com:jenkinsci/google_chat.git</developerConnection>
-        <url>https://github.com/jenkinsci/google_chat</url>
+        <connection>scm:git:git://github.com/jenkinsci/google_chat-plugin.git</connection>
+        <developerConnection>scm:git:git@github.com:jenkinsci/google_chat-plugin.git</developerConnection>
+        <url>https://github.com/jenkinsci/google_chat-plugin</url>
     </scm>
    
     <repositories>
