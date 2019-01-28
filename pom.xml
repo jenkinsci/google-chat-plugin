@@ -41,4 +41,12 @@
             <url>https://repo.jenkins-ci.org/public/</url>
         </pluginRepository>
     </pluginRepositories>
+      <developers>
+    <developer>
+      <id>nibin</id>
+      <name>Developer</name>
+      <email>c.nibi123@gmail.com</email>
+    </developer>
+  </developers>
+    
 </project>
