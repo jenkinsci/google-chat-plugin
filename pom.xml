@@ -7,8 +7,8 @@
         <version>2.33</version>
         <relativePath />
     </parent>
-    <artifactId>google_chat</artifactId>
-    <version>1.0-google_chat</version>
+    <artifactId>google-chat</artifactId>
+    <version>1.0-google-chat</version>
     <packaging>hpi</packaging>
     <properties>
         <jenkins.version>2.7.3</jenkins.version>
