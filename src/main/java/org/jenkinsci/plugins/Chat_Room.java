@@ -113,7 +113,6 @@ public class Chat_Room extends Notifier {
 	OutputStream wr = conn.getOutputStream();
 	wr.write(parent.toString().getBytes("UTF-8"));
 	wr.close();
-	System.out.println(conn.getResponseCode() );
 	  if (conn.getResponseCode() != 200) 
 	  {
 		   throw new RuntimeException("Failed : HTTP error code : "+ conn.getResponseCode());
